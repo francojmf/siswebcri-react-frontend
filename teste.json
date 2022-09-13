@@ -1,0 +1,1376 @@
+{
+    "resposta": [
+        {
+            "id": "https://servicos.gov.br/api/v1/servicos/9427",
+            "nome": "Obter Serviços de Tráfego Aéreo",
+            "sigla": "ATS",
+            "descricao": "Os Serviços de Tráfego Aéreo (*AIR TRAFFIC SERVICE - ATS*) são providos pelo Departamento de Controle do Espaço Aéreo (DECEA), que é a organização responsável pelo controle do espaço aéreo brasileiro, provendo serviços de navegação aérea que viabilizam os voos e a ordenação dos fluxos de tráfego aéreo no País. Subordinado ao Comando da Aeronáutica, o DECEA é o órgão gestor do Sistema de Controle do Espaço Aéreo Brasileiro (SISCEAB), que dispõe de estrutura física e instalações em mais de uma centena de municípios das 27 unidades federativas brasileiras.\n\n Aproximadamente 12 mil profissionais atuam 24 horas, nos 365 dias do ano, em meio a uma complexa rede operacional interconectada que compreende, além do DECEA e 13 Organizações Subordinadas, 5 Centros de Controle de Área (ACC), 44 Controles de Aproximação (APP), 59 Torres de Controle de Aeródromo (TWR), 76 Destacamentos de Controle do Espaço Aéreo (DTCEA), mais de 98 Estações de Telecomunicações Aeronáuticas, 75 Estações Prestadoras de Serviços de Telecomunicações e de Tráfego Aéreo (EPTA), 170 Radares, 50 Sistemas de Pouso por Instrumentos, entre outros auxílios à navegação aérea, compondo assim, toda a infraestrutura dos Serviços de Tráfego Aéreo do Brasil.\n\n O espaço aéreo sob responsabilidade do País estende-se além de suas fronteiras. Ultrapassa a área de seu território e alcança significativa parte do Oceano Atlântico, perfazendo um total de 22 milhões de km2, sobre terra e mar, acordados em tratados internacionais. A utilização dos serviços, instalações, auxílios e facilidades para apoiar e tornar segura a navegação aérea em sua área de atuação está sujeita ao pagamento das tarifas de comunicação e navegação aéreas.\n\n O DECEA provê serviços de informações de voo, alerta e controle de tráfego aéreo. O serviço é oferecido por meio de frequências VHF e HF com os pilotos das aeronaves, ou, ainda, por enlace de dados, via *data link* (CPDLC – comunicação entre controlador e piloto por enlace de dados) em locais específicos. Esses serviços são prestados de acordo com os locais sob a responsabilidade dos órgãos prestadores dos serviços ATS, podendo ser ACC, APP, TWR ou Estação Rádio.\n\n",
+            "contato": "Por meio do formulário do SAC-DECEA que está disponível no *link* “Fale Conosco”, localizado na barra de menu da página principal do site do DECEA: [www.decea.gov.br](http://www.decea.gov.br/).\n\n",
+            "gratuito": "false",
+            "porcentagemDigital": 100,
+            "servicoDigital": false,
+            "linkServicoDigital": "",
+            "nomesPopulares": {
+                "item": [
+                    {
+                        "item": "",
+                        "id": 9783
+                    }
+                ]
+            },
+            "solicitantes": {
+                "solicitante": [
+                    {
+                        "id": 13387,
+                        "tipo": "Pilotos, proprietários, exploradores e operadores de aeronaves, nacionais e internacionais, pessoa física, pessoa jurídica de direito público e pessoa jurídica de direito privado.\n\n",
+                        "requisitos": "O requisito para receber os serviços é ser usuário homologado do espaço aéreo brasileiro.\n\n"
+                    }
+                ]
+            },
+            "tempoTotalEstimado": {
+                "ate": {
+                    "max": "5",
+                    "unidade": "dias-uteis"
+                },
+                "entre": null,
+                "emMedia": null,
+                "atendimentoImediato": null,
+                "naoEstimadoAinda": null,
+                "descricao": null,
+                "min": null,
+                "max": 5
+            },
+            "validadeDocumento": {
+                "tipo": "Sem validade",
+                "quantidade": "0",
+                "unidade": "",
+                "descricao": ""
+            },
+            "orgao": {
+                "id": "http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/48",
+                "dbId": 7369,
+                "nomeOrgao": "Comando da Aeronáutica (COMAER)",
+                "porcentagemDigital": null,
+                "tempoMedioEspera": null,
+                "porcentagemAvaliacoesPositivas": null,
+                "qtdTotal": null,
+                "qtdTotalSolicitacoes": null,
+                "qtdDenuncias": null,
+                "qtdReclamacao": null
+            },
+            "segmentosDaSociedade": {
+                "item": [
+                    {
+                        "item": "Cidadãos",
+                        "idSegmento": 1,
+                        "idServicoSegmento": 20331
+                    },
+                    {
+                        "item": "Empresas",
+                        "idSegmento": 3,
+                        "idServicoSegmento": 20332
+                    },
+                    {
+                        "item": "Órgãos e entidades públicas",
+                        "idSegmento": 2,
+                        "idServicoSegmento": 20333
+                    }
+                ]
+            },
+            "areasDeInteresse": {
+                "item": [
+                    "Outros Serviços"
+                ]
+            },
+            "palavrasChave": {
+                "item": [
+                    {
+                        "item": "tráfego aéreo",
+                        "id": 39832
+                    },
+                    {
+                        "item": "controle tráfego aéreo",
+                        "id": 39833
+                    },
+                    {
+                        "item": "espaço aéreo",
+                        "id": 39834
+                    },
+                    {
+                        "item": "navegação aérea",
+                        "id": 39835
+                    }
+                ]
+            },
+            "legislacoes": {
+                "item": [
+                    {
+                        "item": "",
+                        "id": 7804
+                    }
+                ]
+            },
+            "avaliacoes": {
+                "positivas": 27,
+                "negativas": 7
+            },
+            "condicoesAcessibilidade": "O usuário do serviço público, conforme estabelecido pela lei nº 13.460/17, tem direito a atendimento presencial, quando necessário, em instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento.\n\n",
+            "tratamentoPrioritario": "Tem direito a atendimento prioritário as pessoas com deficiência, os idosos com idade igual ou superior a 60 anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos, conforme estabelecido pela lei nº 10.048, de 8 de novembro de 2000.\n\n",
+            "tratamentoDispensadoAtendimento": "O usuário deverá receber, conforme os princípios expressos na lei nº 13.460/17, um atendimento pautado nas seguintes diretrizes:\n\n  * Urbanidade;\n * Respeito;\n * Acessibilidade;\n * Cortesia;\n * Presunção da boa-fé do usuário;\n * Igualdade;\n * Eficiência;\n * Segurança; e\n * Ética\n ",
+            "etapas": [
+                {
+                    "id": 25216,
+                    "titulo": "Consultar as Normas específicas referentes ao Serviço de Navegação Aérea",
+                    "descricao": "Os documentos publicados pelo DECEA normatizam todas as atividades relacionadas ao controle do espaço aéreo, sendo as principais: ICA100-12 (Regras do Ar), ICA100-11 (Plano de Voo) e MCA 100-11 (Preenchimento dos Formulários de Plano de Voo).\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 29998,
+                                "tipo": "web-consultar",
+                                "descricao": "[ Consultar](https://publicacoes.decea.gov.br/) \n\n No *link* é possível acessar todos os documentos que tratam do Serviço de Navegação Aérea sob responsabilidade do DECEA.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": {},
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 25217,
+                    "titulo": "Consultar o Serviço de Informações Aeronáutica (AIS)",
+                    "descricao": "O AIS tem por finalidade garantir a divulgação das informações e dos dados aeronáuticos necessários à segurança operacional, regularidade, economia e eficiência do sistema de gerenciamento de tráfego aéreo. As principais publicações AIS disponibilizadas são: a) AIP (Publicação de Informação Aeronáutica); b) NOTAM (Aviso aos Aeronavegantes); c) ROTAER (Publicação Auxiliar de Rotas Aéreas); d) Cartas Aeronáuticas; e e) AIC (Circular de Informação Aeronáutica). \n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 29999,
+                                "tipo": "web-consultar",
+                                "descricao": "[ Consultar](https://aisweb.decea.gov.br/)\n\n No *link* é possível consultar as informações aeronáuticas necessárias para o planejamento do voo.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": {},
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 25218,
+                    "titulo": "Consultar as condições meteorológicas em aeroportos e rotas aéreas",
+                    "descricao": "A Rede de Meteorologia do Comando da Aeronáutica (REDEMET) tem como objetivo integrar os produtos meteorológicos voltados à aviação civil e militar, para tornar o acesso a estas informações mais rápido, eficiente e seguro.\n\n O DECEA divulga, por meio do Portal REDEMET, informações sobre as condições meteorológicas nos aeroportos e rotas aéreas, utilizando-se de informações de radares e satélites meteorológicos, o que contribui para o planejamento e a execução dos voos.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30000,
+                                "tipo": "web-consultar",
+                                "descricao": "[ Consultar](https://www.redemet.aer.mil.br/)\n\n No *link* é possível consultar as condições meteorológicas necessárias ao planejamento do respectivo voo.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": {},
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 25219,
+                    "titulo": "Submeter o plano de voo",
+                    "descricao": "PLNI (Plano de Voo via Internet) é o componente do SIGMA (Sistema Integrado de Gestão de Movimentos Aéreos) responsável pela elaboração, validação, envio e recebimento das intenções de voo originadas via internet, através dos navegadores *Firefox* e *Chrome.*\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30001,
+                                "tipo": "web-preencher",
+                                "descricao": "[ Preencher](https://sigma.cgna.gov.br/plni/loginPage) \n\n No *link*  acima é possível preencher e submeter o plano de voo.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            },
+                            {
+                                "id": 30002,
+                                "tipo": "aplicativo-movel",
+                                "descricao": "**Em 23 de outubro de 2019 ocorreu o lançamento do App FLP-BR para Android e iOS para a validação e envio de mensagem de plano de voo.**\n\n FPLBR (Plano de Voo via Aplicativo) é o componente do SIGMA responsável pela elaboração, validação, envio e atualização dos dados das intenções de voo, e disponibilizado via aplicativo para celular com versões para as plataformas *Android* e IOS.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": {},
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 25220,
+                    "titulo": "Realizar pagamentos relativos às Tarifas de Navegação Aérea",
+                    "descricao": "Nesta etapa estão disponíveis serviços que possibilitam ao usuário a visualização e a impressão das Faturas relativas à cobrança das Tarifas de Navegação Aérea e dos Demonstrativos das Tarifas a cobrar por Cliente, com a indicação dos movimentos e operações dos voos das aeronaves deste usuário.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": [
+                            {
+                                "id": 3527,
+                                "descricao": "Conforme Lei nº 6009/73 ou ICA 12-24,",
+                                "moeda": "R$",
+                                "valor": null,
+                                "valorVariavel": "o custo será variável.",
+                                "statusCustoVariavel": 1
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30003,
+                                "tipo": "web",
+                                "descricao": "[Acesse o site](http://tarifas.decea.gov.br/)\n\n No* link* o usuário poderá solicitar a atualização de seu endereço de cobrança e ter acesso ao canal de atendimento para solução de eventuais dúvidas. Para acessar estes serviços é necessário possuir Login e Senha, que poderão ser obtidos junto ao DECEA/ATAN, por meio do formulário de cadastro.                \n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": {},
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 25221,
+                    "titulo": "Acompanhar processos em análise pela Junta de Julgamento da Aeronáutica",
+                    "descricao": "A JJAER tem por finalidade apurar e aplicar as penalidades e providências administrativas previstas na Lei nº 7.565, de 19 de dezembro de 1986, \"Código Brasileiro de Aeronáutica (CBA)\", e legislação complementar, por condutas que configurem infrações de tráfego aéreo e descumprimento das normas que regulam o Sistema de Controle do Espaço Aéreo Brasileiro (SISCEAB). \n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30004,
+                                "tipo": "web-consultar",
+                                "descricao": "[ Consultar](http://www.jjaer.decea.gov.br/)\n\n No link é possível acessar as informações para o autuado e seu procurador, onde terão acesso as pautas para julgamento de ambas as instâncias e são divulgadas toda e quaisquer informações relevantes ao seu funcionamento.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": {
+                            "max": "5",
+                            "unidade": "dias-uteis"
+                        },
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": 5
+                    },
+                    "digitalizavel": true
+                }
+            ],
+            "tempoMediaEspera": "5",
+            "percentualAvaliacoesPositivas": "79",
+            "url": "https://www.gov.br/pt-br/servicos/obter-servicos-de-trafego-aereo"
+        },
+        {
+            "id": "https://servicos.gov.br/api/v1/servicos/9431",
+            "nome": "Solicitar análise de planos relativos a aeródromos, heliponto, zona de proteção ou objeto projetado no Espaço Aéreo",
+            "sigla": "AGA",
+            "descricao": "A sigla AGA *(Aerodromes, Air Routes and Ground Aids,* pela definição da Organização Internacional da Aviação Civil e *Aeródromos e Auxílios Terrestres*, conforme definido na ICA 11-3/2018) nomeia o portal do Departamento de Controle do Espaço Aéreo (DECEA) onde é possível saber mais sobre Planos de Zona de Proteção de Aeródromos, consultar planos publicados, legislação relacionada e ter acesso a arquivos que auxiliam nos processos.\n\n No portal também é possível acessar o sistema SySAGA, que permite iniciar e/ou consultar processos.\n\n Os serviços AGA prestados pelo DECEA e órgãos regionais, consistem nas seguintes análises:\n\n a) Análise de projeto de instalação e/ou construção de objeto projetado no espaço aéreo, quanto às implicações na segurança ou regularidade das operações aéreas, visando a emissão de uma deliberação para sua implantação;\n\n b) Análise de projeto de um Plano Diretor Aeroportuário (PDIR), quanto às questões relacionadas com a segurança ou a regularidade das operações aéreas;\n\n c) Análise de projeto de Plano Básico de Zona de Proteção de Aeródromo e de Heliponto (PBZPA/H) quanto ao correto emprego dos critérios relativos à elaboração desses planos, de acordo com as normas vigentes no País;\n\n d) Análise de projeto de construção ou modificação de aeródromo e de heliponto quanto às questões relacionadas com a segurança ou a regularidade das operações aéreas, visando à inscrição ou atualização no cadastro de aeródromos da Agência Nacional de Aviação Civil; e\n\n e) Análise para a exploração de Aeródromo Civil Público, pois esse serviço prestado pelos órgãos regionais do DECEA, nos termos do Decreto nº 7.624, de 22 de novembro de 2011, e do Decreto nº 7.871, de 21 de dezembro de 2012, depende de determinadas análises por parte do COMAER, quanto aos temas de sua competência. Assim, é exigida como etapa constituinte do processo de obtenção do instrumento de outorga para exploração de aeródromos civis públicos, coordenados pelo Ministério da Infraestrutura.\n\n",
+            "contato": "Por meio do formulário do SAC-DECEA que está disponível no *link* “Fale Conosco”, localizado na barra de menu da página principal do site do DECEA: [www.decea.gov.br](http://www.decea.gov.br/).\n\n",
+            "gratuito": "true",
+            "porcentagemDigital": 100,
+            "servicoDigital": true,
+            "linkServicoDigital": "http://servicos.decea.gov.br/aga/",
+            "nomesPopulares": {
+                "item": [
+                    {
+                        "item": "",
+                        "id": 9787
+                    }
+                ]
+            },
+            "solicitantes": {
+                "solicitante": [
+                    {
+                        "id": 13391,
+                        "tipo": "Pessoa física, pessoa jurídica de direito público e pessoa jurídica de direito privado.\n\n",
+                        "requisitos": ""
+                    }
+                ]
+            },
+            "tempoTotalEstimado": {
+                "ate": null,
+                "entre": null,
+                "emMedia": null,
+                "atendimentoImediato": null,
+                "naoEstimadoAinda": {},
+                "descricao": null,
+                "min": null,
+                "max": null
+            },
+            "validadeDocumento": {
+                "tipo": "Sem validade",
+                "quantidade": "0",
+                "unidade": "",
+                "descricao": ""
+            },
+            "orgao": {
+                "id": "http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/48",
+                "dbId": 7369,
+                "nomeOrgao": "Comando da Aeronáutica (COMAER)",
+                "porcentagemDigital": null,
+                "tempoMedioEspera": null,
+                "porcentagemAvaliacoesPositivas": null,
+                "qtdTotal": null,
+                "qtdTotalSolicitacoes": null,
+                "qtdDenuncias": null,
+                "qtdReclamacao": null
+            },
+            "segmentosDaSociedade": {
+                "item": [
+                    {
+                        "item": "Cidadãos",
+                        "idSegmento": 1,
+                        "idServicoSegmento": 20340
+                    },
+                    {
+                        "item": "Empresas",
+                        "idSegmento": 3,
+                        "idServicoSegmento": 20341
+                    },
+                    {
+                        "item": "Órgãos e entidades públicas",
+                        "idSegmento": 2,
+                        "idServicoSegmento": 20342
+                    }
+                ]
+            },
+            "areasDeInteresse": {
+                "item": [
+                    "Autorizações e Aprovações"
+                ]
+            },
+            "palavrasChave": {
+                "item": [
+                    {
+                        "item": "proteção aeródromo",
+                        "id": 39847
+                    },
+                    {
+                        "item": "projeto aéreo",
+                        "id": 39848
+                    },
+                    {
+                        "item": "projeto aeródromo",
+                        "id": 39849
+                    },
+                    {
+                        "item": "plano espaço aéreo",
+                        "id": 39850
+                    }
+                ]
+            },
+            "legislacoes": {
+                "item": [
+                    {
+                        "item": "Edital DECEA nº 1, de 30 maio de 2016 (Publicado no DOU nº 103, seção 3, de 1º Jun. 2016);\n\n Edital DECEA nº 7, de 30 Dez. 2015 (Publicado no DOU nº 8, seção 3, de 13 Jan. 2016);\n\n ICA 11-3, 01/10/2018 - Processos da área de aeródromos (AGA) no âmbito do COMAER;\n\n ICA 11-4, 28/08/2013 - Processo para análise de projetos de construção ou modificação de aeródromos, aeroportos, helipontos e heliportos militares;\n\n ICA 63-19, 15/10/2015 - Critérios de análise técnica da área de aeródromos (AGA);\n\n L",
+                        "id": 7808
+                    }
+                ]
+            },
+            "avaliacoes": {
+                "positivas": 11,
+                "negativas": 0
+            },
+            "condicoesAcessibilidade": "O usuário do serviço público, conforme estabelecido pela lei nº 13.460/17, tem direito a atendimento presencial, quando necessário, em instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento.\n\n",
+            "tratamentoPrioritario": "Tem direito a atendimento prioritário as pessoas com deficiência, os idosos com idade igual ou superior a 60 anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos, conforme estabelecido pela lei nº 10.048, de 8 de novembro de 2000.\n\n",
+            "tratamentoDispensadoAtendimento": "O usuário deverá receber, conforme os princípios expressos na lei nº 13.460/17, um atendimento pautado nas seguintes diretrizes:\n\n  * Urbanidade;\n * Respeito;\n * Acessibilidade;\n * Cortesia;\n * Presunção da boa-fé do usuário;\n * Igualdade;\n * Eficiência;\n * Segurança; e\n * Ética\n ",
+            "etapas": [
+                {
+                    "id": 25226,
+                    "titulo": "Abrir Processo",
+                    "descricao": "Para utilizar essa etapa do serviço o solicitante irá escolher um dos seguintes Projetos: Objeto (OPEA) ou Aeródromo.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30015,
+                                "tipo": "web",
+                                "descricao": "[Acesse o site](http://servicos.decea.gov.br/aga/?i=processos&tipo=opea)\n\n Esse *link* é destinado a OBJETO (OPEA), de qualquer natureza, temporária ou permanente, fixa ou móvel, sujeito à análise sob os aspectos de uso do espaço aéreo nacional, utilizando-se os parâmetros estabelecidos na Portaria nº 957/GC3 e em norma complementar do COMAER.\n\n A pré-análise consiste em uma ferramenta de análise onde o interessado em construir edificações e que estariam dispensados de consultar o Comando da Aer",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            },
+                            {
+                                "id": 30016,
+                                "tipo": "web",
+                                "descricao": "[Acesse o site](http://servicos.decea.gov.br/aga/?i=processos&tipo=aero) \n\n Esse *link* é destinado a AERÓDROMO e será necessário selecionar o subtipo de projeto: Alteração no cadastro; Exploração de aeródromos civis públicos; Inscrição no cadastro e Plano Diretor Aeroportuário.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": {},
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 25227,
+                    "titulo": "Consultar Planos",
+                    "descricao": "Acesse os planos de zona de proteção aprovados pelo DECEA, selecionando um aeródromo de interesse ou um município específico para saber qual(is) plano(s) de zona de proteção impõe(m) restrição(ões) ao munícipio. É possível buscar por cidade ou diretamente pelo nome do aerodrómo.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30017,
+                                "tipo": "web",
+                                "descricao": "[Acesse o site](http://servicos.decea.gov.br/aga/?i=planos)\n\n Conheça os tipos de Planos de Zona de Proteção acessando o *link.*\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": {},
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                }
+            ],
+            "tempoMediaEspera": "0",
+            "percentualAvaliacoesPositivas": "100",
+            "url": "https://www.gov.br/pt-br/servicos/solicitar-analise-de-planos-relativos-a-aerodromos-heliponto-zona-de-protecao-ou-objeto-projetado-no-espaco-aereo"
+        },
+        {
+            "id": "https://servicos.gov.br/api/v1/servicos/9432",
+            "nome": "Solicitar autorização para voo de Aeronaves Remotamente Pilotadas",
+            "sigla": "SARPAS",
+            "descricao": "O SARPAS (Solicitação de Acesso de Aeronaves Remotamente Pilotadas) foi desenvolvido com o objetivo de facilitar a solicitação de acesso ao Espaço Aéreo para o uso de Sistemas de Aeronaves Remotamente Pilotadas (RPAS/DRONES) no Espaço Aéreo Brasileiro.\n\n",
+            "contato": "Por meio do formulário do SAC-DECEA que está disponível no *link* “Fale Conosco”, localizado na barra de menu da página principal do site do DECEA: [www.decea.gov.br](http://www.decea.gov.br/).\n\n",
+            "gratuito": "true",
+            "porcentagemDigital": 100,
+            "servicoDigital": true,
+            "linkServicoDigital": "https://www.decea.gov.br/drone/",
+            "nomesPopulares": {
+                "item": [
+                    {
+                        "item": "DRONE",
+                        "id": 9788
+                    }
+                ]
+            },
+            "solicitantes": {
+                "solicitante": [
+                    {
+                        "id": 13392,
+                        "tipo": "Todo cidadão maior de 18 anos, sendo Pessoa Física (Piloto) ou Pessoa Jurídica (PJ) de Natureza Privada, PJ Órgão de Segurança Pública, PJ Defesa Civil, PJ Receita Federal do Brasil, PJ Instituição Pública (exceto Forças Armadas) e PJ Forças Armadas.\n\n",
+                        "requisitos": "Tenha digitalizada uma cópia de documento com foto e CPF para o cadastro. E para solicitar voos é obrigatório o cadastro de Aeronaves no SARPAS com Certificado de Cadastro no Sistema de Aeronaves Não Tripuladas (SISANT) da ANAC.\n\n"
+                    }
+                ]
+            },
+            "tempoTotalEstimado": {
+                "ate": {
+                    "max": "10",
+                    "unidade": "dias-corridos"
+                },
+                "entre": null,
+                "emMedia": null,
+                "atendimentoImediato": null,
+                "naoEstimadoAinda": null,
+                "descricao": null,
+                "min": null,
+                "max": 10
+            },
+            "validadeDocumento": {
+                "tipo": "Sem validade",
+                "quantidade": "0",
+                "unidade": "",
+                "descricao": ""
+            },
+            "orgao": {
+                "id": "http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/48",
+                "dbId": 7369,
+                "nomeOrgao": "Comando da Aeronáutica (COMAER)",
+                "porcentagemDigital": null,
+                "tempoMedioEspera": null,
+                "porcentagemAvaliacoesPositivas": null,
+                "qtdTotal": null,
+                "qtdTotalSolicitacoes": null,
+                "qtdDenuncias": null,
+                "qtdReclamacao": null
+            },
+            "segmentosDaSociedade": {
+                "item": [
+                    {
+                        "item": "Cidadãos",
+                        "idSegmento": 1,
+                        "idServicoSegmento": 20343
+                    },
+                    {
+                        "item": "Empresas",
+                        "idSegmento": 3,
+                        "idServicoSegmento": 20344
+                    },
+                    {
+                        "item": "Órgãos e entidades públicas",
+                        "idSegmento": 2,
+                        "idServicoSegmento": 20345
+                    }
+                ]
+            },
+            "areasDeInteresse": {
+                "item": [
+                    "Autorizações e Aprovações"
+                ]
+            },
+            "palavrasChave": {
+                "item": [
+                    {
+                        "item": "drone",
+                        "id": 39851
+                    },
+                    {
+                        "item": "autorização voo drone",
+                        "id": 39852
+                    },
+                    {
+                        "item": "RPAS",
+                        "id": 39853
+                    }
+                ]
+            },
+            "legislacoes": {
+                "item": [
+                    {
+                        "item": "",
+                        "id": 7809
+                    }
+                ]
+            },
+            "avaliacoes": {
+                "positivas": 33,
+                "negativas": 4
+            },
+            "condicoesAcessibilidade": "O usuário do serviço público, conforme estabelecido pela lei nº 13.460/17, tem direito a atendimento presencial, quando necessário, em instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento.\n\n",
+            "tratamentoPrioritario": "Tem direito a atendimento prioritário as pessoas com deficiência, os idosos com idade igual ou superior a 60 anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos, conforme estabelecido pela lei nº 10.048, de 8 de novembro de 2000.\n\n",
+            "tratamentoDispensadoAtendimento": "O usuário deverá receber, conforme os princípios expressos na lei nº 13.460/17, um atendimento pautado nas seguintes diretrizes:\n\n  * Urbanidade;\n * Respeito;\n * Acessibilidade;\n * Cortesia;\n * Presunção da boa-fé do usuário;\n * Igualdade;\n * Eficiência;\n * Segurança; e\n * Ética\n ",
+            "etapas": [
+                {
+                    "id": 25230,
+                    "titulo": "Realizar a solicitação",
+                    "descricao": "Com o cadastro validado, basta realizar a solicitação inserindo as informações de e-mail, senha e número que aparece na figura do site.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30020,
+                                "tipo": "web-preencher",
+                                "descricao": "[ Preencher](https://servicos.decea.gov.br/sarpas/index.cfm)\n\n No *link* acima é possível entrar com seus dados para realizar as solicitações, contudo, para solicitar voos é obrigatório o cadastro de aeronaves no SARPAS com Certificado de Cadastro no Sistema de Aeronaves Não Tripuladas SISANT (ANAC).\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": {},
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 25228,
+                    "titulo": "Consultar as orientações",
+                    "descricao": "A missão do Portal Drone/RPAS é reunir a legislação e informações necessárias para que o pilotos de RPAS (sigla de *Remotely Piloted Aircraft Systems)* possam fazer voos seguros e dentro das normas, e oferecer ao usuário um canal para fazer a solicitação para acessar o espaço aéreo. \n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30018,
+                                "tipo": "web-consultar",
+                                "descricao": "[ Consultar](https://www.decea.gov.br/drone/)  *Click* e leia atentamente as Regras e Orientações.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": {},
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 25229,
+                    "titulo": "Realizar o cadastro",
+                    "descricao": "O cadastro no SARPAS indica estar de acordo com os termos de uso do serviço e estar ciente das punições cabíveis nos casos de infração previstos nas legislações em vigor.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 30019,
+                                "tipo": "web-inscrever-se",
+                                "descricao": "[ Inscrever-se](http://servicos2.decea.gov.br/sarpas/?i=cadastro)  \n\n No *link* acima é possível realizar a inscrição. Ao fim do cadastro você receberá uma mensagem para validar o e-mail informado. O remetente dessa mensagem será *[web@decea.gov.br](mailto:web@decea.gov.br), *portanto é importante liberar esse endereço como remetente confiável no seu *webmail* e evitar problemas com *anti-spam.*\n\n A análise do cadastro consiste em verificar se Nome, CPF e data de nascimento informados constam no",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": {
+                            "max": "10",
+                            "unidade": "dias-corridos"
+                        },
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": 10
+                    },
+                    "digitalizavel": true
+                }
+            ],
+            "tempoMediaEspera": "10",
+            "percentualAvaliacoesPositivas": "89",
+            "url": "https://www.gov.br/pt-br/servicos/solicitar-autorizacao-para-voo-de-aeronaves-remotamente-pilotadas"
+        },
+        {
+            "id": "https://servicos.gov.br/api/v1/servicos/9433",
+            "nome": "Solicitar calibrações de equipamentos nas áreas de metrologia",
+            "sigla": "IFI",
+            "descricao": "Calibrações de equipamentos nas áreas de Metrologia Física (pressão, massa, temperatura e vazão), Elétrica (eletricidade, tempo e frequência e alta frequência) e Dimensional, utilizando padrões e equipamentos de alta exatidão com rastreabilidade metrológica nos principais órgãos nacionais e internacionais, estabelecendo vínculo com as unidades do Sistema Internacional (SI).\n\n Alguns serviços dos laboratórios de calibração dimensional, massa e pressão são acreditados pela CGCRE (Coordenação Geral de Acreditação do INMETRO), sob o nº CAL 0001, fazendo parte da Rede Brasileira de Calibração (RBC).\n\n",
+            "contato": "Caso a comunicação eletrônica esteja inoperante, o usuário poderá comunicar-se com a secretaria da Divisão de Confiabilidade Metrológica Aeroespacial, por meio do telefone (12) 3947-7335.\n\n **Horário de atendimento:**\n\n Segunda a quinta-feira, das 7h30min às 17h15min.\n\n Sexta-feira, das 7h30min às 12h30min.\n\n **Departamento de Ciência e Tecnologia Aeroespacial – DCTA**\n\n Instituto de Fomento e Coordenação Industrial – IFI\n\n Divisão de Confiabilidade Metrológica Aeroespacial - CMA\n\n Praça Marechal Eduardo Gomes, nº 50 - Vila das Acácias\n\n CEP 12228-901 - São José dos Campos - SP – Brasil\n\n",
+            "gratuito": "true",
+            "porcentagemDigital": 100,
+            "servicoDigital": true,
+            "linkServicoDigital": "http://www.ifi.cta.br/index.php/produtos-calibracao",
+            "nomesPopulares": {
+                "item": [
+                    {
+                        "item": "Calibração",
+                        "id": 19293
+                    },
+                    {
+                        "item": "Metrologia",
+                        "id": 19294
+                    },
+                    {
+                        "item": "FAB",
+                        "id": 19295
+                    }
+                ]
+            },
+            "solicitantes": {
+                "solicitante": [
+                    {
+                        "id": 21334,
+                        "tipo": "Laboratórios de Metrologia, universidades, centros de pesquisa e empresas da indústria aeronáutica, espacial e de defesa.\n\n",
+                        "requisitos": "**Requisitos necessários**\n\n O solicitante deve enviar um e-mail especificando o tipo de serviço desejado. A solicitação é analisada pela equipe técnica, que elabora a “Ficha de Informações Técnicas” contendo descrições detalhadas sobre o serviço a ser executado pelo laboratório. O solicitante recebe tal documento junto ao valor do serviço demandado. Após o aceite do solicitante para o serviço de calibração, o equipamento pode ser enviado ao laboratório para a execução do serviço. Será emitida Guia de Recolhimento da União (GRU) e seu pagamento é condição para o recebimento do certificado de calibração. Solicita-se ao cliente o retorno do formulário “Satisfação dos Clientes”, devidamente preenchido, que acompanha o Certificado de Calibração.\n\n"
+                    }
+                ]
+            },
+            "tempoTotalEstimado": {
+                "ate": null,
+                "entre": null,
+                "emMedia": {
+                    "max": "15",
+                    "unidade": "dias-uteis"
+                },
+                "atendimentoImediato": null,
+                "naoEstimadoAinda": null,
+                "descricao": null,
+                "min": null,
+                "max": 15
+            },
+            "validadeDocumento": {
+                "tipo": "Sem validade",
+                "quantidade": "0",
+                "unidade": "",
+                "descricao": ""
+            },
+            "orgao": {
+                "id": "http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/48",
+                "dbId": 7369,
+                "nomeOrgao": "Comando da Aeronáutica (COMAER)",
+                "porcentagemDigital": null,
+                "tempoMedioEspera": null,
+                "porcentagemAvaliacoesPositivas": null,
+                "qtdTotal": null,
+                "qtdTotalSolicitacoes": null,
+                "qtdDenuncias": null,
+                "qtdReclamacao": null
+            },
+            "segmentosDaSociedade": {
+                "item": [
+                    {
+                        "item": "Empresas",
+                        "idSegmento": 3,
+                        "idServicoSegmento": 33368
+                    }
+                ]
+            },
+            "areasDeInteresse": {
+                "item": [
+                    "Empresas e Serviços"
+                ]
+            },
+            "palavrasChave": {
+                "item": [
+                    {
+                        "item": "calibração equipamento metrologia",
+                        "id": 70931
+                    },
+                    {
+                        "item": "calibração",
+                        "id": 70932
+                    },
+                    {
+                        "item": "metrologia",
+                        "id": 70933
+                    }
+                ]
+            },
+            "legislacoes": {
+                "item": [
+                    {
+                        "item": "",
+                        "id": 17616
+                    }
+                ]
+            },
+            "avaliacoes": {
+                "positivas": 17,
+                "negativas": 10
+            },
+            "condicoesAcessibilidade": "O usuário do serviço público, conforme estabelecido pela lei nº 13.460/17, tem direito a atendimento presencial, quando necessário, em instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento.\n\n",
+            "tratamentoPrioritario": "Tem direito a atendimento prioritário as pessoas com deficiência, os idosos com idade igual ou superior a 60 anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos, conforme estabelecido pela lei nº 10.048, de 8 de novembro de 2000.\n\n",
+            "tratamentoDispensadoAtendimento": "O usuário deverá receber, conforme os princípios expressos na lei nº 13.460/17, um atendimento pautado nas seguintes diretrizes:\n\n  * Urbanidade;\n * Respeito;\n * Acessibilidade;\n * Cortesia;\n * Presunção da boa-fé do usuário;\n * Igualdade;\n * Eficiência;\n * Segurança; e\n * Ética\n ",
+            "etapas": [
+                {
+                    "id": 42867,
+                    "titulo": "Consultar serviços de Metrologia",
+                    "descricao": "Os links abaixo especificam a relação de serviços de calibração executados pela Metrologia Elétrica, Metrologia Física e Metrologia Dimensional, respectivamente:\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 54014,
+                                "tipo": "web-consultar",
+                                "descricao": "[ Consultar](http://www.ifi.cta.br/index.php/produtos-calibracao/calibracao-em-metrologia-eletrica) **Calibração em Metrologia Elétrica**\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            },
+                            {
+                                "id": 54015,
+                                "tipo": "web-consultar",
+                                "descricao": "[ Consultar](http://www.ifi.cta.br/index.php/produtos-calibracao/calibracao-em-metrologia-fisica) **Calibração em Metrologia Física**\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            },
+                            {
+                                "id": 54016,
+                                "tipo": "web-consultar",
+                                "descricao": "[ Consultar](http://www.ifi.cta.br/index.php/produtos-calibracao/calibracao-em-metrologia-dimensional) **Calibração em Metrologia Dimensional**\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": {},
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 42868,
+                    "titulo": "Enviar e-mail",
+                    "descricao": "O solicitante deve enviar um e-mail especificando o tipo de serviço desejado.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 54017,
+                                "tipo": "e-mail",
+                                "descricao": "**cma@ifi.cta.br**\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": {},
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 42869,
+                    "titulo": "Aguardar análise pela equipe técnica",
+                    "descricao": "A equipe técnica elabora a “Ficha de Informações Técnicas” contendo descrições detalhadas sobre o serviço a ser executado pelo laboratório. O solicitante recebe tal documento junto ao valor do serviço demandado. \n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 54018,
+                                "tipo": "e-mail",
+                                "descricao": "**cma@ifi.cta.br**\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": {
+                            "max": "7",
+                            "unidade": "dias-uteis"
+                        },
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": 7
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 42870,
+                    "titulo": "Aceitar o serviço",
+                    "descricao": "Após o aceite do solicitante para o serviço de calibração, o equipamento pode ser enviado ao laboratório para a execução do serviço. Será emitida Guia de Recolhimento da União (GRU).\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 54019,
+                                "tipo": "web",
+                                "descricao": "Para a realização do pagamento da GRU na rede bancária conveniada.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": {
+                            "max": "2",
+                            "unidade": "dias-uteis"
+                        },
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": 2
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 42871,
+                    "titulo": "Aguardar o recebimento do certificado de calibração",
+                    "descricao": "O pagamento da GRU é condição para o recebimento do certificado.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 54020,
+                                "tipo": "e-mail",
+                                "descricao": "No endereço eletrônico informado pelo contato realizado através do e-mail. \n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": {
+                            "max": "3",
+                            "unidade": "dias-uteis"
+                        },
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": 3
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 42872,
+                    "titulo": "Preencher o formulário de satisfação do cliente",
+                    "descricao": "Solicita-se ao cliente o retorno do formulário “Satisfação dos Clientes”, devidamente preenchido, que acompanha o Certificado de Calibração.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 54021,
+                                "tipo": "e-mail",
+                                "descricao": "**cma@ifi.cta.br**\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": {},
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                }
+            ],
+            "tempoMediaEspera": "15",
+            "percentualAvaliacoesPositivas": "63",
+            "url": "https://www.gov.br/pt-br/servicos/solicitar-calibracoes-de-equipamentos-nas-areas-de-metrologia"
+        },
+        {
+            "id": "https://servicos.gov.br/api/v1/servicos/9426",
+            "nome": "Cadastrar empresa no catálogo de empresas do setor aeroespacial",
+            "sigla": "CESAER",
+            "descricao": "O Catálogo de Empresas do Setor Aeroespacial (CESAER) tem o objetivo de auxiliar o fomento do Parque Industrial Aeroespacial Brasileiro, por meio de sua divulgação na página do Instituto de Fomento e Coordenação Industrial (IFI) na internet. O CESAER contempla as empresas nacionais da indústria aeroespacial, bem como as de manutenção aeronáutica.\n\n Este Catálogo também é indicado pelo IFI como fonte primária de consulta para empresas estrangeiras que têm interesse em firmar acordo de compensação comercial, industrial e tecnológica (*Offset*) nos processos decorrentes de aquisições da Força Aérea Brasileira\n\n",
+            "contato": "INSTITUTO DE FOMENTO E COORDENAÇÃO INDUSTRIAL – IFI\n\n DIVISÃO DE DESENVOLVIMENTO INDUSTRIAL – CDI\n\n Praça Marechal Eduardo Gomes, 50 - Vila das Acácias\n\n São José dos Campos – SP\n\n CEP 12.228-901\n\n Correio Eletrônico: cesaer@ifi.cta.br\n\n Site: www.ifi.cta.br\n\n",
+            "gratuito": "true",
+            "porcentagemDigital": 100,
+            "servicoDigital": false,
+            "linkServicoDigital": "",
+            "nomesPopulares": {
+                "item": [
+                    {
+                        "item": "",
+                        "id": 19511
+                    }
+                ]
+            },
+            "solicitantes": {
+                "solicitante": [
+                    {
+                        "id": 21549,
+                        "tipo": "Empresas nacionais da indústria e de manutenção aeroespacial.\n\n",
+                        "requisitos": "**Requisitos necessários** A Instrução do Comando da Aeronáutica (ICA 78-14) tem a finalidade de estabelecer os requisitos que devem ser cumpridos pelas empresas que desejem solicitar ao IFI sua inclusão no Catálogo de Empresas do Setor Aeroespacial (CESAER), bem como na relação de empresas candidatas ao benefício previsto no Convênio ICMS 75/91."
+                    }
+                ]
+            },
+            "tempoTotalEstimado": {
+                "ate": null,
+                "entre": null,
+                "emMedia": null,
+                "atendimentoImediato": null,
+                "naoEstimadoAinda": {},
+                "descricao": null,
+                "min": null,
+                "max": null
+            },
+            "validadeDocumento": {
+                "tipo": "Sem validade",
+                "quantidade": "0",
+                "unidade": "",
+                "descricao": ""
+            },
+            "orgao": {
+                "id": "http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/48",
+                "dbId": 7369,
+                "nomeOrgao": "Comando da Aeronáutica (COMAER)",
+                "porcentagemDigital": null,
+                "tempoMedioEspera": null,
+                "porcentagemAvaliacoesPositivas": null,
+                "qtdTotal": null,
+                "qtdTotalSolicitacoes": null,
+                "qtdDenuncias": null,
+                "qtdReclamacao": null
+            },
+            "segmentosDaSociedade": {
+                "item": [
+                    {
+                        "item": "Empresas",
+                        "idSegmento": 3,
+                        "idServicoSegmento": 33734
+                    }
+                ]
+            },
+            "areasDeInteresse": {
+                "item": [
+                    "Empresas e Serviços"
+                ]
+            },
+            "palavrasChave": {
+                "item": [
+                    {
+                        "item": "cadastro de empresas Setor Aeroespacial",
+                        "id": 71760
+                    },
+                    {
+                        "item": "CESAER",
+                        "id": 71761
+                    },
+                    {
+                        "item": "indústria aeroespacial",
+                        "id": 71762
+                    }
+                ]
+            },
+            "legislacoes": {
+                "item": [
+                    {
+                        "item": "Instrução do Comando da Aeronáutica (ICA 78-14/2018) - Cadastro de empresas na relação de candidatas ao benefício fiscal do Convênio ICMS 75/91 e no Catálogo de Empresas do Setor Aeroespacial.\n\n",
+                        "id": 17946
+                    }
+                ]
+            },
+            "avaliacoes": {
+                "positivas": 18,
+                "negativas": 8
+            },
+            "condicoesAcessibilidade": "O usuário do serviço público, conforme estabelecido pela lei nº 13.460/17, tem direito a atendimento presencial, quando necessário, em instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento.\n\n",
+            "tratamentoPrioritario": "Tem direito a atendimento prioritário as pessoas com deficiência, os idosos com idade igual ou superior a 60 anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos, conforme estabelecido pela lei nº 10.048, de 8 de novembro de 2000.\n\n",
+            "tratamentoDispensadoAtendimento": "O usuário deverá receber, conforme os princípios expressos na lei nº 13.460/17, um atendimento pautado nas seguintes diretrizes:\n\n  * Urbanidade;\n * Respeito;\n * Acessibilidade;\n * Cortesia;\n * Presunção da boa-fé do usuário;\n * Igualdade;\n * Eficiência;\n * Segurança; e\n * Ética\n ",
+            "etapas": [
+                {
+                    "id": 43301,
+                    "titulo": "Realizar o cadastro no SIFIAER",
+                    "descricao": "",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 54641,
+                                "tipo": "web-preencher",
+                                "descricao": "<http://www.sifiaer.ifi.cta.br:8080/SIFIAer>\n\n A empresa interessada em se cadastrar no CESAER deve realizar a solicitação por meio do Sistema Integrado de Fomento à Indústria Aeroespacial – SIFIAER.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": null,
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": {},
+                        "descricao": null,
+                        "min": null,
+                        "max": null
+                    },
+                    "digitalizavel": true
+                },
+                {
+                    "id": 43302,
+                    "titulo": "Aguardar a inclusão no catálogo",
+                    "descricao": "Se todas as informações cadastrada no SIFIAER estiverem completas e atenderem aos requisitos previstos, a empresa será incluída no CESAER.\n\n",
+                    "documentos": {
+                        "documentos": null,
+                        "casos": []
+                    },
+                    "custos": {
+                        "custos": null,
+                        "casos": []
+                    },
+                    "canaisDePrestacao": {
+                        "canaisDePrestacao": [
+                            {
+                                "id": 54642,
+                                "tipo": "e-mail",
+                                "descricao": "**<cesaer@ifi.cta.br> **Através desse e-mail é possível esclarecer dúvidas sobre possíveis pendências.\n\n",
+                                "procedimentoSistemaIndisponivel": null,
+                                "tempoEstimadoPeriodo": null,
+                                "tempoEstimadoEspera": null,
+                                "tempoEstimadoPeriodoService": null
+                            }
+                        ],
+                        "casos": []
+                    },
+                    "tempoTotalEstimado": {
+                        "ate": null,
+                        "entre": null,
+                        "emMedia": {
+                            "max": "60",
+                            "unidade": "dias-corridos"
+                        },
+                        "atendimentoImediato": null,
+                        "naoEstimadoAinda": null,
+                        "descricao": null,
+                        "min": null,
+                        "max": 60
+                    },
+                    "digitalizavel": true
+                }
+            ],
+            "tempoMediaEspera": "0",
+            "percentualAvaliacoesPositivas": "69",
+            "url": "https://www.gov.br/pt-br/servicos/cadastrar-empresa-no-catalogo-de-empresas-do-setor-aeroespacial"
+        }
+    ],
+    "mensagem": null,
+    "hasErro": false
+}

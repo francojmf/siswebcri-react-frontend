@@ -50,7 +50,7 @@ export default function UsuariosListagem() {
 
   return (
     <div className={classes.root}>
-      <MenuAdmin title={'Sis Web CRI - USUÁRIOS'} />
+      <MenuAdmin title={'Sis Web CRIA - USUÁRIOS'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
         <Container maxWidth="lg" className={classes.container}>

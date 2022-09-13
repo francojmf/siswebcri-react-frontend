@@ -64,7 +64,7 @@ export default function MeuUsuarioEditar() {
 
   return (
     <div className={classes.root}>
-      <MenuUsuario title={'Sis Web CRI - MEU USUÁRIO'} />
+      <MenuUsuario title={'Sis Web CRIA - MEU USUÁRIO'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
         <Container maxWidth="lg" className={classes.container}>

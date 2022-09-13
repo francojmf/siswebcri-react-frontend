@@ -62,7 +62,7 @@ export default function ProdutoEditar() {
 
   return (
     <div className={classes.root}>
-      <MenuAdmin title={'Sis Web CRI - Editar Produto'} />
+      <MenuAdmin title={'Sis Web CRIA - Editar Produto'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
         <Container maxWidth="lg" className={classes.container}>

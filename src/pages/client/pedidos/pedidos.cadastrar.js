@@ -59,7 +59,7 @@ export default function PedidoCadastrar() {
     loadProdutos();
   }, []);
 
-  function clickEvent(event, a, b) {}
+  function clickEvent(event, a, b) { }
 
   // console.log(idUsuario);
   // console.log(produtoId);
@@ -108,7 +108,7 @@ export default function PedidoCadastrar() {
   return (
     <>
       <div className={classes.root}>
-        <MenuUsuario title={'Sis Web CRI - Novo Pedido'} />
+        <MenuUsuario title={'Sis Web CRIA - Novo Pedido'} />
         <main className={classes.content}>
           <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
           <Container maxWidth="lg" className={classes.container}>

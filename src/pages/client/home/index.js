@@ -15,14 +15,14 @@ export default function Home() {
 
   return (
     <div className={classes.root}>
-      <MenuLogin title={'Sis Web CRI'} />
+      <MenuLogin title={'Sis Web CRIA'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
 
         <Container maxWidth="lg" className={classes.container}>
           <div>
             <h1>Bem-vindo ao Sistema Web do Projeto</h1>
-            <h1>Cadeira de Rodas Infantil </h1>
+            <h1>Cadeira de Rodas Infantil Automatizada</h1>
             <p>
               - Para acessar o sistema e fazer pedidos é necessário um cadastro.
             </p>

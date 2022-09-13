@@ -148,7 +148,7 @@ export default function EntidadeCadastrar() {
 
   return (
     <div className={classes.root}>
-      <MenuUsuario title={'Sis Web CRI - Nova Entidade'} />
+      <MenuUsuario title={'Sis Web CRIA - Nova Entidade'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
         <Container maxWidth="lg" className={classes.container}>
@@ -301,7 +301,7 @@ export default function EntidadeCadastrar() {
                       label="Cidade"
                       fullWidth
                       value={cidade}
-                      //onChange={(e) => setBairro(e.target.value)}
+                    //onChange={(e) => setBairro(e.target.value)}
                     />
                   </Grid>
                   <Grid item xs={12} sm={2}>
@@ -314,7 +314,7 @@ export default function EntidadeCadastrar() {
                       label="Estado"
                       fullWidth
                       value={estado}
-                      // onChange={(e) => setBairro(e.target.value)}
+                    // onChange={(e) => setBairro(e.target.value)}
                     />
                   </Grid>
                   <Grid item xs={12} sm={3}>

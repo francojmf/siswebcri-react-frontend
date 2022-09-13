@@ -23,11 +23,11 @@ function getDashboard() {
 }
 function getMenu() {
   if (getTipoUsuario() === '1') {
-    return <MenuAdmin title={'Sis Web CRI - Tela Administrador'} />;
+    return <MenuAdmin title={'Sis Web CRIA - Tela Administrador'} />;
   } else if (getTipoUsuario() === '2') {
-    return <MenuGerente title={'Sis Web CRI - Tela Gerente'} />;
+    return <MenuGerente title={'Sis Web CRIA - Tela Gerente'} />;
   } else {
-    return <MenuUsuario title={'Sis Web CRI - Tela de Usuário'} />;
+    return <MenuUsuario title={'Sis Web CRIA - Tela de Usuário'} />;
   }
 }
 

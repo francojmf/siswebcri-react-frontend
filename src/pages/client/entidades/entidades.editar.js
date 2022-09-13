@@ -1,4 +1,4 @@
-import React, { useState, useEffect} from 'react';
+import React, { useState, useEffect } from 'react';
 import Box from '@material-ui/core/Box';
 import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
@@ -97,7 +97,7 @@ export default function EntidadeEditar() {
 
   return (
     <div className={classes.root}>
-      <MenuUsuario title={'Sis Web CRI - Editar Entidade'} />
+      <MenuUsuario title={'Sis Web CRIA - Editar Entidade'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
         <Container maxWidth="lg" className={classes.container}>

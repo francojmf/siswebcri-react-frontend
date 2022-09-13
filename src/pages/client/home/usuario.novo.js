@@ -48,7 +48,7 @@ export default function UsuarioCadastrar() {
 
   return (
     <div className={classes.root}>
-      <MenuLogin title={'Sis Web CRI - Novo Usuário'} />
+      <MenuLogin title={'Sis Web CRIA - Novo Usuário'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
         <Container maxWidth="lg" className={classes.container}>

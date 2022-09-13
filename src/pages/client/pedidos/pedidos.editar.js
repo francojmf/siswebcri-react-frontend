@@ -104,7 +104,7 @@ export default function PedidosEditar() {
 
   return (
     <div className={classes.root}>
-      <MenuUsuario title={'Sis Web CRI - Editar Pedido'} />
+      <MenuUsuario title={'Sis Web CRIA - Editar Pedido'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
         <Container maxWidth="lg" className={classes.container}>

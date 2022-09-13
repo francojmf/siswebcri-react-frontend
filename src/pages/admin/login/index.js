@@ -100,7 +100,7 @@ export default function SignIn() {
   return (
     <>
       <div className={classes.root}>
-        <MenuLogin title={'Sis Web CRI - LOGIN'} />
+        <MenuLogin title={'Sis Web CRIA - LOGIN'} />
         <main className={classes.content}>
           <Container maxWidth="xs">
             <CssBaseline />

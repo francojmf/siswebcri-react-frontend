@@ -96,7 +96,7 @@ export default function EntidadesEditar() {
 
   return (
     <div className={classes.root}>
-      <MenuAdmin title={'Sis Web CRI - Editar Entidade'} />
+      <MenuAdmin title={'Sis Web CRIA - Editar Entidade'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} style={{ marginBottom: 30 }} />
         <Container maxWidth="lg" className={classes.container}>

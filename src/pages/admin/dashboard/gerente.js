@@ -8,7 +8,7 @@ export default function Dashboard() {
         <thead>
           <tr>
             <th colspan="12">
-              <h1 align="center">Bem-vindo ao SisWeb-CRI </h1>
+              <h1 align="center">Bem-vindo ao SisWeb-CRIA </h1>
             </th>
           </tr>
         </thead>
@@ -30,7 +30,7 @@ export default function Dashboard() {
           </tr>
           <tr>
             <td>
-              <img src={ImgCri} alt="CRI disponivel" />
+              <img src={ImgCri} alt="CRIA disponivel" />
             </td>
             <td></td>
           </tr>

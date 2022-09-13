@@ -48,7 +48,7 @@ export default function EntidadesListagem() {
 
   return (
     <div className={classes.root}>
-      <MenuAdmin title={'Sis Web CRI - ENTIDADES'} />
+      <MenuAdmin title={'Sis Web CRIA - ENTIDADES'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}>

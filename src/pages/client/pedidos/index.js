@@ -41,7 +41,7 @@ export default function PedidosListagem() {
 
   return (
     <div className={classes.root}>
-      <MenuUsuario title={'Sis Web CRI - Meus Pedidos'} />
+      <MenuUsuario title={'Sis Web CRIA - Meus Pedidos'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}>

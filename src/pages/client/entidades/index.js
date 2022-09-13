@@ -38,7 +38,7 @@ export default function EntidadesListagem() {
 
   return (
     <div className={classes.root}>
-      <MenuUsuario title={'Sis Web CRI - ENTIDADES'} />
+      <MenuUsuario title={'Sis Web CRIA - ENTIDADES'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}>

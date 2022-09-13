@@ -39,8 +39,8 @@ export default function PedidosListagem() {
     if (
       window.confirm(
         'Deseja realmente excluir este pedido ?' +
-          'Este comando não pode ser desfeito ...' +
-          'Os dados do pedido serão perdidos !!'
+        'Este comando não pode ser desfeito ...' +
+        'Os dados do pedido serão perdidos !!'
       )
     ) {
       var result = await api.delete('api/pedidos/' + id);
@@ -54,7 +54,7 @@ export default function PedidosListagem() {
 
   return (
     <div className={classes.root}>
-      <MenuAdmin title={'Sis Web CRI - PEDIDOS'} />
+      <MenuAdmin title={'Sis Web CRIA - PEDIDOS'} />
       <main className={classes.content}>
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}>
