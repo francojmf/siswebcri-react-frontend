@@ -1,3 +1,7 @@
+## Frontend do Projeto CRIA
+
+Este é o repositório do frontend do Projeto Cadeira de Rodas Infantil Automatizada, criado com as bibliotecas do React JS.
+
 ## Available Scripts
 
 In the project directory, you can run:
