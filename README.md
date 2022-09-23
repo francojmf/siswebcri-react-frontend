@@ -2,6 +2,10 @@
 
 Este é o repositório do frontend do Sistema Web do Projeto CRIA, criado com bibliotecas do React JS.
 
+O código do backend está em: https://github.com/francojmf/siswebcri-react-backend
+
+Ele está rodando na plataforma Vercel: https://siswebcri-react-frontend-francojmf.vercel.app
+
 ## Available Scripts
 
 In the project directory, you can run:
